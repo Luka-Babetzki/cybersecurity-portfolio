@@ -1,4 +1,4 @@
-# Luka-Babetzki-Portfolio
+# Luka-Cybersecurity-Portfolio
 Hi, I'm Luka and this is my Cyber Security Portfolio.
 
 
