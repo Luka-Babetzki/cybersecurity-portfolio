@@ -15,4 +15,5 @@ Hi, I'm Luka and this is my Cyber Security Portfolio.
 
 |     Certification     |               Completed?               |     Link       |
 | --------------------  | -------------------------------------- | ---------------| 
-|       CompTIA A+      |                                        |                | 
+|   CompTIA A+          |               In Progress              |                | 
+|   CompTIA Network+    |               Future                   |                |
