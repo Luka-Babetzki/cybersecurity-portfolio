@@ -4,16 +4,13 @@ Hi, I'm Luka and this is my Cyber Security Portfolio.
 
 # Project Overview 
 
-|     Project     |                 Skills                |     Tools       |      Link       |
-| --------------- | ------------------------------------- | --------------- | --------------- |
-|                 |                                       |                 |                 |
-|                 |                                       |                 |                 |
-|                 |                                       |                 |                 |
+|     Project     |     Skills/Knowledge Gained           |     Tools       |
+| --------------- | ------------------------------------- | --------------- |
+| 1 - Networking  |                                       |                 |
+| 2 - SIEM        |                                       |                 |
+|                 |                                       |                 |
+
+# My Toolkit
 
 
-# Certifications 
-
-|     Certification     |               Completed?               |     Link       |
-| --------------------  | -------------------------------------- | ---------------| 
-|   CompTIA A+          |               In Progress              |                | 
-|   CompTIA Network+    |               Future                   |                |
+# Certifications
