@@ -1,16 +1,16 @@
-# Luka-Cybersecurity-Portfolio
+# Luka Cybersecurity Portfolio
 Hi, I'm Luka and this is my Cyber Security Portfolio.
 
 
-# Project Overview 
+## Project Overview 
 
-|     Project     |     Skills/Knowledge Gained           |     Tools       |
-| --------------- | ------------------------------------- | --------------- |
-| 1 - Networking  |                                       |                 |
-| 2 - SIEM        |                                       |                 |
-|                 |                                       |                 |
-
-# My Toolkit
+|     Project           |     Skills/Knowledge Gained           |     Tools       |
+| --------------------- | ------------------------------------- | --------------- |
+| 1 - Network Security  |                                       |                 |
+| 2 - SIEM              |                                       |                 |
 
 
-# Certifications
+## My Toolkit
+
+
+## Certifications
