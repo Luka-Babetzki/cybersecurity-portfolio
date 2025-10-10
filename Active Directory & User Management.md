@@ -1,4 +1,4 @@
-# Implementing Active Directory
+# Active Directory & User Management
 
 ## Objective
 [What you're trying to accomplish]
