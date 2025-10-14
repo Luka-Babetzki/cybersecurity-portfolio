@@ -1,116 +1,54 @@
-# Luka Portfolio
-
-Hi, I'm Luka and this is my portfolio.
+# Luka Babetzki
 
 ## Professional Summary
 
-I am Luka Babetzki, an aspiring cybersecurity professional currently earning my CompTIA A+, Network+, and Security+ certifications through IT Online Learning. I'm passionate about transforming theoretical knowledge into practical skills through hands-on projects and lab environments. I document my learning journey and technical discoveries through my blog on Medium, sharing insights from real-world implementations and security challenges.
+I'm a cybersecurity professional building practical, hands-on expertise through real-world lab implementations. Currently pursuing CompTIA Security+, Network+, and A+ certifications, I focus on translating security concepts into deployable solutions. I document technical insights and learning experiences on Medium.
 
-<br>
+**Current Focus:** Azure security infrastructure, SIEM deployment, and threat detection engineering.
 
+<!--
 
-## Portfolio
+## Portfolio Overview
 
-Here are some key projects that demonstrate my hands-on experience in IT infrastructure and cybersecurity:
+**Description:** This portfolio documents hands-on cybersecurity projects across infrastructure security, threat detection, and security operations. Projects demonstrate practical implementation of security concepts through real-world lab environments and documented methodologies.
 
-|        Project        |    Skills/Knowledge Gained  |     Tools       |
-|-----------------------|-----------------------------|-----------------|
-| <a href="https://github.com/Luka-Babetzki/Luka-Cybersecurity-Portfolio/blob/main/Active%20Directory%20%26%20User%20Management.md">Active Directory & User Management</a> | `Active Directory`, `Windows Server`, `Policy Group`, `Virtualisation`  | AD DS    |
-| | | |
+**Project Structure:**
 
-<br>
+1. **Standalone Projects:** Complete, self-contained implementations demonstrating specific technical skills. Each project includes full documentation, architecture diagrams, and configuration examples.
+
+2. **Progressive Projects:** Multi-phase builds that evolve over time, showing infrastructure development and iterative improvement. Each phase builds upon previous work to create comprehensive security solutions.
+
+3. **Collection Projects:** Ongoing series of related activities following consistent methodologies, demonstrating continuous learning and specialisation in specific security domains.
+
+**Objective:** The primary goal of this portfolio is to demonstrate practical application of cybersecurity principles and the effective use of industry-standard tools and methodologies to design, implement, and secure digital infrastructure.
+
+-->
+
+## Projects
+
+| <div align="center">Projects</div> | <div align="center">Expertise Highlight</div> |
+|------------------------------------|-----------------------------------------------|
+| <a href="https://github.com/Luka-Babetzki/Luka-Cybersecurity-Portfolio/blob/main/Active%20Directory%20%26%20User%20Management.md">Active Directory & User Management</a> | `Active Directory`, `Windows Server`, `Organisational Groups (OUs)`, `Policy Group`, `Virtualisation`  |
 
 
 ## Certifications
 
-*Currently working towards my CompTIA A+, Network+, and Security+ certifications - watch this space!*
+**In Progress:**
+- CompTIA A+ (220-1101 & 220-1102)
 
-<br>
+**Planned 2025:**
+- CompTIA Network+ (N10-009)
+- CompTIA Security+ (SY0-701)
 
 
-## My Toolkit
-
-<div align="center">
-
-### Security Tools
-
-<img src="https://img.shields.io/badge/Wireshark-1679A7.svg?style=for-the-badge&logo=Wireshark&logoColor=white"/>
-<img src="https://img.shields.io/badge/VirusTotal-394EFF.svg?style=for-the-badge&logo=VirusTotal&logoColor=white"/>
-<img src="https://img.shields.io/badge/Metasploit-2596CD.svg?style=for-the-badge&logo=Metasploit&logoColor=white"/>
-<img src="https://img.shields.io/badge/MITRE_ATT&CK®-08669C.svg?style=for-the-badge&logo=MITRE_ATT&CK&logoColor=white"/>
-<img src="https://img.shields.io/badge/Atomic_Red_Team-D02733.svg?style=for-the-badge&logo=Atomic_Red_Team&logoColor=white"/>
-<br><br>
-</div>
-
-<div align="center">
+## Toolkit
 
 ### Operating Systems
-
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-<img src="https://img.shields.io/badge/Kali%20Linux-557C94.svg?style=for-the-badge&logo=Kali-Linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white"/>
-<br><br>
-</div>
+Windows 10/11 • Windows Server 2022 • Ubuntu • Kali Linux
 
 
-## Passion Projects
-
-### <a href="">Deep-Fake Face Classifier (Video & Image)</a>
-
-_A Python project, designed, implemented, and validated at Hong Kong Baptist University, designed for the detection of deep-fake media in real-time._ 
-
-`#Computer Vision` `#OpenCV` `#Cascade Classifier` `#k-NN Classifier`
-
-<!---
-
-<br>
-
-### <a href="">Project Name</a>
-
-_Brief description_
-
-`#` `#` `#` `#`
-
-- 
-- 
-- 
-
--->
-
-<br>
-
-## Platforms
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/lukabbzk.png" alt="TryHackMe Badge" />
-<a href="https://tryhackme.com/p/lukabbzk">
-
-<br><br>
-
-
-<div align="center">
-
-## Let's Connect!
+## Contact & Socials
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luka-babetzki)
 [![Medium Blog](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@lukababetzki)
-
-
-</div>
-
-<div align="center">
-
-*"The best defence is a good understanding of the attack"*
-
-</div>
-
-
-<!---
-
-## Project Overview 
-
-|     Project           |     Skills/Knowledge Gained           |     Tools       |
-| --------------------- | ------------------------------------- | --------------- |
-| <a href="https://github.com/Luka-Babetzki/Luka-Cybersecurity-Portfolio/tree/main/1%20-%20Network%20Security">1</a> - Network Security  |                                       |                 |
-| <a href="https://github.com/Luka-Babetzki/Luka-Cybersecurity-Portfolio/tree/main/2%20-%20SIEM">2</a> - SIEM              |                                       |                 |
-
--->
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Luka-Babetzki)
