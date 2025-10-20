@@ -8,8 +8,9 @@ In this guide, you will learn how to install VMware on your computer, create two
 ## What is VMware?
 VMware Workstation Pro is a free virtualisation platform available on Windows and Linux operating systems. VMware was brought by Broadcom in 2023 and made available as a free product for personal use in May 2024.
 
-Why is VMware preferred over VirtualBox?
+### VMware vs. VirtualBox
 VMware Workstation Pro offers superior performance, better hardware compatibility, and more reliable snapshot functionality compared to VirtualBox. Whilst VirtualBox remains a solid choice for basic virtualisation, VMware is often preferred by professionals and power users who require more robust features and stability.
+
 
 ## Prerequiste Considerations
 
@@ -18,9 +19,10 @@ VMware Workstation Pro offers superior performance, better hardware compatibilit
 - **Operating System:** Windows 10/11 64-bit or a compatible Linux distribution with kernel 3.10 or later.
 - **Account Registration:** A Broadcom account is required to download VMware Workstation Pro.
 
----
 
-## Part 1: Installing VMware
+## Getting Started
+
+### Part 1: Installing VMware
 
 1. **Download VMware:**
 
@@ -41,7 +43,7 @@ VMware Workstation Pro offers superior performance, better hardware compatibilit
 
 ---
 
-## Part 2: Navigating VMware Interface
+### Part 2: Navigating VMware Interface
 
 1. **Adding Virtual Machines:**
 
@@ -57,7 +59,7 @@ VMware Workstation Pro offers superior performance, better hardware compatibilit
 
 ---
 
-## Part 3: Creating Two Virtual Machines on NAT Network
+### Part 3: Creating Two Virtual Machines on NAT Network
 
 1. **Create Your First Virtual Machine:**
 
