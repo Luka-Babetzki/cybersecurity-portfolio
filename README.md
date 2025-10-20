@@ -13,7 +13,7 @@ I'm an IT Helpdesk Technician building practical, hands-on expertise through rea
 
 | <div align="center">Projects</div> | <div align="center">Expertise Highlight</div> |
 |------------------------------------|-----------------------------------------------|
-| <a href="https://github.com/Luka-Babetzki/cybersecurity-portfolio/tree/722d4d31608420f35525ee2d6c24e4e2ef590d12/Active%20Directory%20%26%20User%20Management">Active Directory & User Management</a> | `Active Directory`, `Windows Server`, `Organisational Groups (OUs)`, `Policy Group`, `Virtualisation`  |
+| <a href="https://github.com/Luka-Babetzki/cybersecurity-portfolio/tree/722d4d31608420f35525ee2d6c24e4e2ef590d12/Active%20Directory%20%26%20User%20Management">Active Directory & User Management</a> | `Active Directory`, `Windows Server`, `Organisational Groups (OUs)`, `Policy Group`, `Remote Administration`, `Virtualisation`  |
 
 
 ## Certifications
