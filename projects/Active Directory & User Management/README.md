@@ -1,6 +1,6 @@
 # Active Directory & User Management
 
-## Overview
+## Summary
 This project demonstrates the implementation of Active Directory Domain Services (AD DS) in a controlled lab environment. Using Windows Server 2022 as the domain controller and a Windows 10 host machine, I configure a small business network infrastructure with organised user management, group policies, and security controls.
 
 
@@ -16,32 +16,28 @@ This project demonstrates the implementation of Active Directory Domain Services
 
 ### Tools Used:
 - **Windows Server 2022** — Domain Controller
-- **Active Directory Domain Services** — Promote server to Domain Controller
 - **Windows 10 Enterprise** — Host machine
+- **Active Directory Domain Services** — Promote server to Domain Controller
 - **PowerShell** — Automation and management
 - **SSH** — Remote administration
 - **VMware Workstation 17 Pro** — *(<a href="https://github.com/Luka-Babetzki/cybersecurity-portfolio/blob/main/How%20to%20Install%20VMware.md">How to Install VMware</a>)*
 
 ### VM Configurations:
 
-| Domain Controller | Host Machine   |
-|-------------------|----------------|
+| Domain Controller   | Host Machine          |
+|---------------------|-----------------------|
 | Windows Server 2022 | Windows 10 Enterprise |
-| 4GB RAM | 2GB RAM |
-| 2 CPU cores | 2 CPU cores |
-| 60GB Storage | 50GB Storage |
-| NAT Network | NAT Network |
+| 4GB RAM             | 2GB RAM               |
+| 2 CPU cores         | 2 CPU cores           |
+| 60GB Storage        | 50GB Storage          |
+| NAT Network         | NAT Network           |
 
 ### Network Topology:
 
-<br>
-
-<div align="center">
-    <img src="Active Directory & User Management/images/architecture diagram.png" alt="Architecture Diagram">
-</div>
+![alt text](image.png)
 
 
-## Methodology
+## Getting Started
 
 ### I. Promote Server to Domain Controller
 1. Install Windows Server 2022
@@ -102,6 +98,8 @@ This project demonstrates the implementation of Active Directory Domain Services
 - [Specific technical skill or knowledge gained]
 - [Specific technical skill or knowledge gained]
 - [Relevant soft skill or methodology learned]
+
+-->
 
 
 ## Results & Impact

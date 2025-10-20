@@ -2,7 +2,7 @@
 
 ## Professional Summary
 
-I'm a cybersecurity professional building practical, hands-on expertise through real-world lab implementations. Currently pursuing CompTIA A+, Network+, and Security+ certifications. I focus on translating security concepts into deployable solutions. I document technical insights and learning experiences on Medium.
+I'm an IT Helpdesk Technician building practical, hands-on expertise through real-world lab implementations. Currently pursuing CompTIA A+, Network+, and Security+ certifications. I focus on translating security concepts into deployable solutions. I document technical insights and learning experiences on Medium.
 
 **Current Focus:** Active Directory, SIEM deployment, and Azure security infrastructure.
 
@@ -15,7 +15,6 @@ I'm a cybersecurity professional building practical, hands-on expertise through 
 |------------------------------------|-----------------------------------------------|
 | <a href="https://github.com/Luka-Babetzki/cybersecurity-portfolio/tree/722d4d31608420f35525ee2d6c24e4e2ef590d12/Active%20Directory%20%26%20User%20Management">Active Directory & User Management</a> | `Active Directory`, `Windows Server`, `Organisational Groups (OUs)`, `Policy Group`, `Virtualisation`  |
 
-<br>
 
 ## Certifications
 
@@ -29,21 +28,26 @@ I'm a cybersecurity professional building practical, hands-on expertise through 
 
 ## Toolkit
 
-### ...
-... • ... • ... • ... • ...
-
 ### Operating Systems
-Windows 10/11 • Windows Server 2022 • Ubuntu • Ubuntu Server • Kali Linux
+
+![Windows 10/11](https://img.shields.io/badge/Windows_10/11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)
+![Windows Server 2022](https://img.shields.io/badge/Windows_Server_2022-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) 
+![Ubuntu Server](https://img.shields.io/badge/Ubuntu_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 
 ### Scripting / Programming Languages
-Python • 
+
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 
 ## Contact
 
-- 📄 **CV:** 
+- 📄 **CV:** <a href="">Luka Babetzki CV</a>
 - 🔗 **LinkedIn:** <a href="www.linkedin.com/in/luka-babetzki">www.linkedin.com/in/luka-babetzki</a>
-- 📬 **Email:** lukababetzki@proton.me
+- 📬 **Email:** <a href="mailto:lukababetzki@proton.me">lukababetzki@proton.me</a>
 
 ---
 
