@@ -4,13 +4,12 @@
 
 I'm a cybersecurity professional building practical, hands-on expertise through real-world lab implementations. Currently pursuing CompTIA A+, Network+, and Security+ certifications. I focus on translating security concepts into deployable solutions. I document technical insights and learning experiences on Medium.
 
-**Current Focus:** Azure security infrastructure, SIEM deployment, and threat detection engineering.
+**Current Focus:** Active Directory, SIEM deployment, and Azure security infrastructure.
 
-<br>
 
 ## Projects
 
-*All projects hosting VMs locally use VMware. Check out my <a href="">How to Install VMware</a> guide to follow along.*
+*All projects hosting VMs locally use VMware. Check out my <a href="https://github.com/Luka-Babetzki/cybersecurity-portfolio/blob/main/How%20to%20Install%20VMware.md">How to Install VMware</a> guide.*
 
 | <div align="center">Projects</div> | <div align="center">Expertise Highlight</div> |
 |------------------------------------|-----------------------------------------------|
@@ -27,14 +26,18 @@ I'm a cybersecurity professional building practical, hands-on expertise through 
 - CompTIA Network+
 - CompTIA Security+
 
-<br>
 
 ## Toolkit
 
-### Operating Systems
-Windows 10/11 • Windows Server 2022 • Ubuntu • Kali Linux
+### ...
+... • ... • ... • ... • ...
 
-<br>
+### Operating Systems
+Windows 10/11 • Windows Server 2022 • Ubuntu • Ubuntu Server • Kali Linux
+
+### Scripting / Programming Languages
+Python • 
+
 
 ## Contact
 
